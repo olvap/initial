@@ -1,0 +1,4 @@
+cuba -v 3.3.0
+cutest -v 1.2.2
+rack-test -v 0.6.3
+rubocop -v 0.28.0
